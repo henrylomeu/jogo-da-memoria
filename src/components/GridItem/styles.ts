@@ -7,7 +7,7 @@ export const Container = styled.div`
     justify-content: center;
     align-items: center;
     cursor: pointer;
-    background-color: #1550FF;
+    background-color: #4491D7;
 `;
 
 export const Icon = styled.img`
