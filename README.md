@@ -1,10 +1,10 @@
 ![Jogo da memoria](https://user-images.githubusercontent.com/115239333/225327103-22580e0f-9957-481b-bba1-490fbc51261f.png)
 
 
-<h1>Projeto</h1>
+<h1> :page_facing_up: Projeto</h1>
 Jogo da memória
 
-<h1>Tecnologias</h1>
+<h1> :computer: Tecnologias</h1>
 - ReactJS </br>
 - Typescript </br>
 - Styled-Components
