@@ -19,7 +19,7 @@ Para estilização do jogo, é utilizado o Styled Components, que permite criar 
 
 Agora você pode acessar localhost:3000 do seu navegador
 
-Link do deploy:https://jogo-da-memoria-dusky.vercel.app/</br>
+Link do deploy: https://jogo-da-memoria-dusky.vercel.app/</br>
 
 Divirta-se!
 
