@@ -5,13 +5,13 @@
 Jogo da memória
 
 <h1>Tecnologias</h1>
-- ReactJS
-- Typescript
+- ReactJS </br>
+- Typescript </br>
 - Styled-Components
 
 <h1>Como executar</h1>
-- Clone o repositório
-- Instale as dependências com npm install
+- Clone o repositório </br>
+- Instale as dependências com npm install </br>
 - Inicie o servidor com npm start
 
 Agora você pode acessar localhost:3000 do seu navegador
