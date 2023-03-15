@@ -2,7 +2,10 @@
 
 
 <h1> :page_facing_up: Projeto</h1>
-Jogo da memória
+Jogo da memória </br>
+O jogo é construído em cima do React, uma das bibliotecas JavaScript mais populares para desenvolvimento de interfaces de usuário, e utiliza o TypeScript para fornecer tipagem estática ao código.</br>
+
+Para estilização do jogo, é utilizado o Styled Components, que permite criar estilos CSS dentro dos próprios componentes React.
 
 <h1> :computer: Tecnologias</h1>
 - ReactJS </br>
