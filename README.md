@@ -9,10 +9,10 @@ Jogo da memória
 - Typescript </br>
 - Styled-Components
 
-<h1>Como executar</h1>
+<h1> :rocket: Como executar</h1>
 - Clone o repositório </br>
 - Instale as dependências com npm install </br>
-- Inicie o servidor com npm start
+- Inicie o servidor com npm start  </br>
 
 Agora você pode acessar localhost:3000 do seu navegador
 
